@@ -1,0 +1,28 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha tests/index.js",
+    "start": "node app.js",
+    "package": "babel services/marks.microservice.js --out-file build/marks-compiled.js",
+    "prepackage": "babel services/students.microservice.js --out-file build/students-compiled.js"
+  },
+  "author": "Mukka deepak",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mocha": "^9.1.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
+    "@babel/node": "^7.15.4",
+    "@babel/preset-env": "^7.15.6",
+    "nodemon": "^2.0.12",
+    "supertest": "^6.1.6"
+  }
+}
