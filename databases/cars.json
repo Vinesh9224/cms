@@ -1,0 +1,40 @@
+[
+  {
+    "BrandName": "Tata",
+    "Variant1": 500000,
+    "Variant2": 600000,
+    "Varianr3": 600000,
+    "Variant4": 500000,
+    "Variant5": 700000,
+  },
+  {
+    "BrandName": "Tesla",
+    "Variant1": 4000000,
+    "Variant2": 5000000,
+    "Varianr3": 6000000,
+    "Variant4": 5000000,
+    "Variant5": 7000000,
+  },
+  {
+    "BrandName": "MG",
+    "Variant1": 2400000,
+    "Variant2": 1500000,
+    "Varianr3": 3400000,
+    "Variant4": 3600000,
+    "Variant5": 1800000,
+  },
+  {
+    "BrandName": "Ford",
+    "Variant1": 1000000,
+    "Variant2": 1100000,
+    "Varianr3": 1200000,
+    "Variant4": 1600000,
+    "Variant5": 1500000,
+  }
+  "BrandName": "Toyota",
+    "Variant1": 2400000,
+    "Variant2": 2900000,
+    "Varianr3": 3600000,
+    "Variant4": 2000000,
+    "Variant5": 1900000,
+]
